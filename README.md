@@ -12,15 +12,19 @@ Specific analysis was performed to supplement the findings that were already pro
 Upon cleaning the data and removing the null value rows, as well as duplicates the total number of rows that were part of this analysis were 14831! 
 
 Summary of student count across the schools 
+
 ![image](https://user-images.githubusercontent.com/42523379/193507907-86df806a-634a-4087-b0f0-62aba204e749.png)
 
 School Budget: It is noteworthy that the public school budget is little greater than the charter school budget. 
+
 ![image](https://user-images.githubusercontent.com/42523379/193507369-e02e9d09-1947-480d-ad7e-56cfde312acb.png)
 
 Average Reading and Math Scores for the School Types
+
 !![image](https://user-images.githubusercontent.com/42523379/193507509-81fd6edc-be2f-413c-aa7e-7922f0a7524f.png)
 
 Math scores across grades for school types
+
 ![image](https://user-images.githubusercontent.com/42523379/193507962-4bbc348d-0457-4f7f-9d37-936517f23394.png)
 
 ## Future Consideration for Indepth Analysis 
